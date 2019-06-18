@@ -4,7 +4,7 @@
 
 - Family Guy Episode Finder is an app where users can gather and go and look up Family Guy episodes and submit reviews.
 
-[Website](https://familyguyepisodefinder.herokuapp.com/)
+[Website](https://fgep.herokuapp.com/episode/5556)
 
 ## Programs Used 
 
